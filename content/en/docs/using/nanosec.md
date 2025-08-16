@@ -1,7 +1,7 @@
 ---
 title: "Calibration with Nanosec"
 linkTitle: "Calibration with Nanosec"
-weight: 8
+weight: 120
 ---
 
 You can include the Finetune and Nanosec faces in your Sensor Watch firmware to achieve exceptionally high accuracy within 10 seconds per year.
